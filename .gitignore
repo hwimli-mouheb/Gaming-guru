@@ -1,0 +1,9 @@
+target/
+.vscode/
+*.csv
+mongo/db/
+node_modules
+*.jar
+package-lock.json
+stream-kafka-consumer-spark-1-jar-with-dependencies.jar
+consumer-to-mongo/target/stream-kafka-consumer-spark-1-jar-with-dependencies.jar
