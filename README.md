@@ -11,7 +11,7 @@ This project was elaborated to acquire practical skills and to explore various t
   
   # About :
   It is a big data pipeline that uses both batch and stream processing.
-  The batch precessing is applied to datasets of game reviews from Steam <a href="[https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018](https://www.kaggle.com/datasets/smeeeow/steam-game-reviews?resource=download)" target="_blank">here</a>.
+  The batch processing is applied to datasets of game reviews from Steam <a href="[https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018](https://www.kaggle.com/datasets/smeeeow/steam-game-reviews?resource=download)" target="_blank">here</a>.
   And the streaming processing part is applied to posts from reddit that concern gaming.
   The result of both types of processing are then inserted to MongoDB database.
   # Architecture:
