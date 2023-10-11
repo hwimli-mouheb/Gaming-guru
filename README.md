@@ -10,10 +10,7 @@ This project was elaborated to acquire practical skills and to explore various t
   </ol>
   
   # About :
-  It is a big data pipeline that uses both batch and stream processing.
-  The batch processing is applied to datasets of game reviews from Steam.
-  And the streaming processing part is applied to posts from reddit that concern gaming.
-  The result of both types of processing are then inserted to MongoDB database.
+This project was undertaken as a vital component of our software engineering curriculum, focusing on hands-on experience with big data tools and techniques. Through batch processing, we analyzed Steam reviews from Kaggle, applying sentiment analysis to rate games thanks to Hadoop HDFS. Simultaneously, we used Spark and Kafka to develop a real-time data collection system to monitor ongoing gaming conversations on Reddit, ensuring our recommendations stayed fresh. Processed data was efficiently managed in MongoDB. We also created a user-friendly interface using React and Express, allowing easy exploration of gaming insights.
   # Architecture:
   ![](architecture.png)
   # Implementation :
